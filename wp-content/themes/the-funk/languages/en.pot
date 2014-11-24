@@ -1,0 +1,340 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: The Funk\n"
+"POT-Creation-Date: 2014-11-18 05:29+0530\n"
+"PO-Revision-Date: 2014-11-18 05:30+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: E:/Server/wamp/www/wordpress/wp-content/themes/the-"
+"funk\n"
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/404.php:7
+msgid "Page Not Found"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/404.php:8
+msgid ""
+"The page you were looking for doesn&rsquo;t exist. Sasquatch, on the other "
+"hand, just might."
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/404.php:9
+msgid "But hey, you can always use our search form:"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/archive.php:15
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/index.php:22
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/search.php:16
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/archive.php:30
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/index.php:41
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/search.php:31
+msgid "Read more"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/archive.php:49
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/index.php:60
+msgid "Not Found"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/archive.php:50
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/index.php:61
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/search.php:51
+msgid "Sorry, but you are looking for something that isn&rsquo;t here."
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/assets/lib/customize.php:12
+msgid "Styling"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/assets/lib/customize.php:13
+msgid "This section allows you to customize colors and feel of The Funk theme."
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/assets/lib/customize.php:19
+msgid "Layout"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/assets/lib/customize.php:20
+msgid "This section allows you to customize the layout of The Funk theme."
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/assets/lib/customize.php:25
+msgid "Primary Colors"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/assets/lib/customize.php:31
+msgid "Navigation Menu - Header"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/assets/lib/customize.php:37
+msgid "Navigation Menu - Primary"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/assets/lib/customize.php:43
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/assets/lib/customize.php:61
+msgid "Footer"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/assets/lib/customize.php:49
+msgid "Custom CSS"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/assets/lib/customize.php:55
+msgid "Sidebars"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/assets/lib/customize.php:82
+msgid "Header Color"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/assets/lib/customize.php:96
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/assets/lib/customize.php:264
+msgid "Title Color"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/assets/lib/customize.php:110
+msgid "Title Color - Hover"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/assets/lib/customize.php:124
+msgid "Description Color"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/assets/lib/customize.php:138
+msgid "Theme Color"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/assets/lib/customize.php:152
+msgid "Hover Color"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/assets/lib/customize.php:166
+msgid "Post Meta Color"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/assets/lib/customize.php:180
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/assets/lib/customize.php:208
+msgid "Menu Color"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/assets/lib/customize.php:194
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/assets/lib/customize.php:222
+msgid "Menu Color - Hover"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/assets/lib/customize.php:236
+msgid "Menu Color - Active"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/assets/lib/customize.php:250
+msgid "Background Color"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/assets/lib/customize.php:278
+msgid "Text Color"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/assets/lib/customize.php:292
+msgid "Link Color"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/assets/lib/customize.php:306
+msgid "Link Color - Hover"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/assets/lib/customize.php:319
+msgid "Homepage"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/assets/lib/customize.php:323
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/assets/lib/customize.php:340
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/assets/lib/customize.php:357
+msgid "Left Sidebar"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/assets/lib/customize.php:324
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/assets/lib/customize.php:341
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/assets/lib/customize.php:358
+msgid "Right Sidebar"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/assets/lib/customize.php:325
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/assets/lib/customize.php:342
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/assets/lib/customize.php:359
+msgid "Full Width"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/assets/lib/customize.php:336
+msgid "Posts"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/assets/lib/customize.php:353
+msgid "Pages"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/assets/lib/customize.php:370
+msgid "Footer Widgets"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/assets/lib/customize.php:374
+msgid "Yes"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/assets/lib/customize.php:375
+msgid "No"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/assets/lib/customize.php:393
+msgid "Footer Credits"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/assets/lib/customize.php:404
+msgid "Put your CSS code here without <style> tags:"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/comments.php:3
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/comments.php:10
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/single.php:10
+msgid "Comments"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/comments.php:15
+msgid "&larr; Previous"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/comments.php:16
+#, php-format
+msgid "Page %1$s of %2$s"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/comments.php:17
+msgid "Next &rarr;"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/comments.php:31
+msgid "Pings"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/comments.php:42
+#, php-format
+msgid ""
+"Comments are closed, but <a href=\"%s\" title=\"Trackback URL for this post"
+"\">trackbacks</a> and pingbacks are open."
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/comments.php:49
+msgid "Comments are closed."
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/functions.php:97
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/functions.php:108
+msgid "Header Navigation"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/functions.php:109
+msgid "Primary Navigation"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/functions.php:117
+msgid "Sidebar"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/functions.php:123
+msgid "The widgets which will appear on the main sidebar."
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/functions.php:126
+msgid "Footer One"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/functions.php:132
+msgid "The widgets which will appear in the first column of the footer."
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/functions.php:135
+msgid "Footer Two"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/functions.php:141
+msgid "The widgets which will appear in the second column of the footer."
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/functions.php:144
+msgid "Footer Three"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/functions.php:150
+msgid "The widgets which will appear in the third column of the footer."
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/functions.php:180
+msgid "Home"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/functions.php:212
+msgid "About"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/functions.php:222
+msgid "See all the posts by "
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/functions.php:222
+msgid "at this link"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/functions.php:477
+msgid "Copyright"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/functions.php:477
+msgid "The Funk"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/functions.php:479
+msgid "Proudly powered by WordPress"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/index.php:12
+msgid "STICKY"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/page-full.php:16
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/page.php:14
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/single.php:17
+msgid "Read the rest of this entry &raquo;"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/page-full.php:18
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/page.php:16
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/single.php:21
+msgid "Pages:"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/search.php:7
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/search.php:50
+msgid "Search results for:"
+msgstr ""
+
+#: E:/Server/wamp/www/wordpress/wp-content/themes/the-funk/single.php:10
+msgid "by"
+msgstr ""
